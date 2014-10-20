@@ -1,40 +1,45 @@
-# System Preferences
+# 系统设置 System Preferences
 
-First thing you need to do, on any OS acutally, is update the system! For that: **Apple Icon > Software Update.**
-Also upgrade your OS incase you want to work on the latest OS. Mavericks is a free upgrade so please check that.
+在任何的操作系统中，首先你需要做的就是更新系统！点击 **Apple Icon  > Software Update.**。如果这是一部新的电脑，你将需要到系统设置（System Preferences）进行一些适当调整。如何调整，取决于你个人喜欢。
 
-If this is a new computer, there are a couple tweaks you would like to make to the System Preferences. Feel free to follow these, or to ignore them, depending on your personal preferences.
+### 触摸板 Trackpad
 
-### Users and Groups
-- Login Options-> Change fast switching user menu to Icon
-- Set up Password, Apple id, Picture , etc.
-
-### Trackpad
-- Point & Click
-    - Unable Tap to Click with one finger
-    - Change secondary click to right corner
-    - Uncheck three finger drag
-- Scroll and Zoom
-    - Uncheck all apart from Zoom in and out
+- System Preferences > Trackpad
+    - Point & Click
+        - Tap to click 「将触碰作为点击」
+        - Secondary click 「双指触碰或点击呼叫菜单」
+        - Look up 「三指触碰呼叫词典」
+        - Three fingers drag 「三指拖动窗口」
+    - Others
+        - 默认全选
 
 ### Dock
-- Change position to left and make the size of Icons small
+- System Preferences > Dock
+    - 设置 Dock 位置在左边
+    - 设置 Dock 图标更小
+    - 设置 Dock 自动显示和隐藏
 
 ### Finder
-- Toolbar
-    - Update to add path, new folder and delete
-- Sidebar
-    - Add home and code directory
-    - Remove shared and tags
-    - New finder window to open in the home directory
+- Finder > View
+    - Show Tab Bar
+    - Show Path Bar
+    - Show Status Bar
+    - Customize Toolbar > 去除所有按钮，仅剩搜索栏
 
-### Menubar
-- Remove the display and bluetooth icons
-- Change battery to show percentage symbols
+- Finder > Preferences
+    - General
+        - 打开 finder 窗口进入 HOME「用户名」目录
+    - Sidebar
+        - 添加 HOME「用户名」目录 和 创建代码文件目录
+        - 将 shared 和 tags 目录去掉
+
+### 菜单栏 Menubar
+- 删除蓝牙等无需经常使用的图标
+- 将电池显示设置为百分比
 
 ### Spotlight
-- Uncheck fonts, images, files etc.
-- Uncheck the keyboard shortcuts as we'll be replacing them with Alfred.
+- 去掉 Fonts 和 Bookmarks & History 等不需要的内容
+- 设置合适的快捷键
 
 ### Accounts
-- Add an iCloud account and sync Calendar, Find my mac, Contacts etc.
+- 添加 iCloud 账户，同步日历，联系人和 Find my mac 等等
