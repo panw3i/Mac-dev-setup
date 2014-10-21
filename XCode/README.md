@@ -1,11 +1,11 @@
 # XCode
 
-Install [Xcode](https://developer.apple.com/xcode/) from the App store or the Apple developer website.
+安装 [Xcode](https://developer.apple.com/xcode/) 从 App store 或 [苹果开发者网站](https://developer.apple.com/)。
 
-For installing Xcode command line tools run the command
+运行以下命令安装 Xcode command line tools
 
         xcode-select --install
 
-It'll prompt you to install the command line tools. Follow the instructions and now you have Xcode and Xcode command line tools both installed and running.
+运行命令后，按照指引，你将完成 Xcode command line tools 安装。
 
 Also install [XQuartz](http://xquartz.macosforge.org/landing/) for X11 server and client libraries for OS X Mountain Lion.

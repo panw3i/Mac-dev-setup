@@ -57,7 +57,7 @@ On a Mac, it is important to remember to add `.DS_Store` (a hidden OS X system f
 ### Setting up Sublime Text as the Git Mergetool
 
     $ git config --global mergetool.sublime.cmd "subl -w \$MERGED"
-    $ git config --global mergetool.sublime.trustExitCode false 
+    $ git config --global mergetool.sublime.trustExitCode false
     $ git config --global merge.tool sublime
     $ git mergetool -y
 

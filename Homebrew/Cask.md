@@ -1,23 +1,23 @@
 # Homebrew Cask
 
-Let's see if we can get the elegance, simplicity, and speed of Homebrew for the installation and management of GUI Mac applications such as Google Chrome and Adium.
+让我们试下通过 Homebrew Cask 优雅、简单、快速的安装和管理 OS X 图形界面程序，比如 Google Chrome 和 Dropbox。
 
 ### Install
 
-Install Homebrew-cask is really straight forward. We just need to add the cask tap and then install brew cask.
+安装 Homebrew-cask 是一件简单直接的事情，运行以下命令即可完成：
 
-    $ brew tap caskroom/cask
-    $ brew install brew-cask
-    $ brew cask install google-chrome
-    $ brew update && brew upgrade brew-cask && brew cleanup
+    $ brew tap caskroom/cask 「添加 Github 上的 caskroom/cask 库」
+    $ brew install brew-cask 「安装 brew-cask 」
+    $ brew cask install google-chrome 「安装 Google 浏览器」
+    $ brew update && brew upgrade brew-cask && brew cleanup 「更新」
 
 ### Search
 
-It is really simple to check if the app is supported by cask by going to the search page on [caskroom.io](http://caskroom.io/)
+如果你想查阅 cask 是否存在你需要的 app，可以到 [caskroom.io](http://caskroom.io/) 进行搜索。
 
 ### Quick look plugins
 
-Some [plugins](https://github.com/sindresorhus/quick-look-plugins) to unable different files to work with Mac Quicklook. Includes features like syntax highlighting, markdown rendering, preview of jsons, patch files, csv, zip files etc.
+有些 [插件](https://github.com/sindresorhus/quick-look-plugins) 可以让Mac 上的文件预览更有效，比如语法高亮、markdown 渲染、json 预览等等。
 
     $ brew cask install qlcolorcode
     $ brew cask install qlstephen
@@ -31,7 +31,7 @@ Some [plugins](https://github.com/sindresorhus/quick-look-plugins) to unable dif
 
 ### App Installation
 
-I'll now cover installation of the apps that I have mentioned in the apps section using cask.
+以下程序，我将会在 Apps 章节提及。
 
     $ brew cask install airmail
     $ brew cask install alfred

@@ -1,20 +1,21 @@
 # Homebrew
 
-Package managers make it so much easier to install and update applications (for Operating Systems) or libraries (for programming languages). The most popular one for OS X is [Homebrew](http://brew.sh/).
+包管理工具可以让安装和更新程序变得更方便，目前在 OS X 系统中最受欢迎的包管理工具是 [Homebrew](http://brew.sh/).
 
 ### Install
 
-An important dependency before Homebrew can work is the **Command Line Tools** for **Xcode**. These include compilers that will allow you to build things from source.
+在安装 Homebrew 之前，需要将 **Xcode** 和 **Command Line Tools** 安装完成，这样你就可以使用基于 Xcode 编译的 Homebrew。
 
-
-We can install Hombrew! In the terminal paste the following line (without the `$`), hit **Enter**, and follow the steps on the screen:
+在 terminal 中复制以下命令（不包括 `$`），跟随指引，将完成 Hombrew 安装。
 
     $ ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
 
-One thing we need to do is tell the system to use programs installed by Hombrew (in `/usr/local/bin`) rather than the OS default if it exists. We do this by adding `/usr/local/bin` to your `$PATH` environment variable:
+安装完成后，Homwbrew 将本地 `/usr/local` 初始化为 git 的工作树，并将目录所有者变更为当前所操作的用户，将来的操作不需要 sudo 。
+
+紧接着，我们需要做一件事让通过 Hombrew 安装的程序的启动链接 (在 `/usr/local/bin`中）可以直接运行，无需将完整路径写出。通过以下命令将 `/usr/local/bin` 添加至 `$PATH` 环境变量中
 
     $ echo 'export PATH="/usr/local/bin:$PATH"' >> ~/.bash_profile
 
-Open an new terminal tab with **Cmd+T** (you should also close the old one), then run the following command to make sure everything works:
+**Cmd+T** 打开一个新的 terminal 标签页，运行以下命令，确保 brew 运行正常。
 
     $ brew doctor

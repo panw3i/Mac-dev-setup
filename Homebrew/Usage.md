@@ -1,31 +1,25 @@
 # Using Homebrew
 
-To install a package (or **Formula** in Homebrew vocabulary) simply type:
+安装一个包，可以简单的运行：
 
-    $ brew install <formula>
+    $ brew install <package_name>
 
-To update Homebrew's directory of formulae, run:
+更新 Homebrew 在服务器上的包目录：
 
     $ brew update
 
-**Note**: I've seen that command fail sometimes because of a bug. If that ever happens, run the following (when you have Git installed):
-
-    $ cd /usr/local
-    $ git fetch origin
-    $ git reset --hard origin/master
-
-To see if any of your packages need to be updated:
+查看你的包是否需要更新：
 
     $ brew outdated
 
-To update a package:
+更新包：
 
-    $ brew upgrade <formula>
+    $ brew upgrade <package_name>
 
-Homebrew keeps older versions of packages installed, in case you want to roll back. That rarely is necessary, so you can do some cleanup to get rid of those old versions:
+Homebrew 将会把老版本的包缓存下来，以防当你想回滚至旧版本时使用。这是比较少使用的情况，所以你可以通过以下命令清理旧版本的包：
 
     $ brew cleanup
 
-To see what you have installed (with their version numbers):
+查看你安装过的包列表（包括版本号）：
 
     $ brew list --versions
