@@ -1,7 +1,5 @@
 # Git Ignore
-
-Create the file `~/.gitignore` as shown below to remove the files that are almost always ignored in all git repositories.
-
+创建一个文件 `~/.gitignore` ，并将以下内容添加进去，这样全部 git 仓库将会忽略以下内容所提及的文件。
 ~~~
 # Folder view configuration files
 .DS_Store

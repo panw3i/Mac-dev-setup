@@ -16,7 +16,7 @@ following command should fix it:
     brew tap --repair
 
 The command below upgrades Octave and its dependencies to the latest
-Homebrew-supported versions: 
+Homebrew-supported versions:
 
     brew update && brew upgrade
 

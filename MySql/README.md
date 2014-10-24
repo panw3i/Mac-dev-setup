@@ -2,14 +2,14 @@
 
 ### Install
 
-We will install [MySQL](http://www.mysql.com/) using Homebrew, which will also install some header files needed for MySQL bindings in different programming languages (MySQL-Python for one).
+我们将使用 Homebrew 安装 [MySQL](http://www.mysql.com/)，同时也会安装 Mysql 的相关文件。
 
-To install, run:
+安装 MySQL:
 
     $ brew update # Always good to do
     $ brew install mysql
 
-As you can see in the ouput from Homebrew, before we can use MySQL we first need to set it up with:
+在使用 MySQL 前，我们需要做一些设置：
 
     $ unset TMPDIR
     $ mkdir /usr/local/var
@@ -17,22 +17,23 @@ As you can see in the ouput from Homebrew, before we can use MySQL we first need
 
 ### Usage
 
-To start the MySQL server, use the `mysql.server` tool:
+启动 MySQL 服务，运行 `mysql.server`
 
     $ mysql.server start
 
-To stop it when you are done, run:
+
+关闭 MySQL，运行：
 
     $ mysql.server stop
 
-You can see the different commands available for `mysql.server` with:
+你可以了解更多 `mysql.server` 的命令，运行：
 
     $ mysql.server --help
 
-To connect with the command-line client, run:
+登录 MySQL, 运行:
 
     $ mysql -uroot
 
-(Use `exit` to quit the MySQL shell.)
+**Note**: 默认情况下，MySQL 用户 `root` 没有密码，这对本地开发没有关系，但如果你希望修改密码，你可以运行:
 
-**Note**: By default, the MySQL user `root` has no password. It doesn't really matter for a local development database. If you wish to change it though, you can use `$ mysqladmin -u root password 'new-password'`.
+    $ mysqladmin -u root password 'new-password'
