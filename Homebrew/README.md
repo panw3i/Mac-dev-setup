@@ -1,6 +1,6 @@
 # Homebrew
 
-包管理工具可以让安装和更新程序变得更方便，目前在 OS X 系统中最受欢迎的包管理工具是 [Homebrew](http://brew.sh/).
+包管理工具可以让你安装和更新程序变得更方便，目前在 OS X 系统中最受欢迎的包管理工具是 [Homebrew](http://brew.sh/).
 
 ### Install
 
@@ -10,7 +10,7 @@
 
     $ ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
 
-安装完成后，Homwbrew 将本地 `/usr/local` 初始化为 git 的工作树，并将目录所有者变更为当前所操作的用户，将来的操作不需要 sudo 。
+`译者注：`安装完成后，Homwbrew 将本地 `/usr/local` 初始化为 git     的工作树，并将目录所有者变更为当前所操作的用户，将来的操作不需要 sudo 。
 
 紧接着，我们需要做一件事让通过 Hombrew 安装的程序的启动链接 (在 `/usr/local/bin`中）可以直接运行，无需将完整路径写出。通过以下命令将 `/usr/local/bin` 添加至 `$PATH` 环境变量中
 

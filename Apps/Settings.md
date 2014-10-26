@@ -24,12 +24,4 @@
 #### Timing
 - System Preferences -> Security and Privacy -> Accessibility -> Check
 
-#### Total Finder
-- General -> New finder window opens in the home folder
-- Sidebar -> Remove shared devices and All my files
-- Advanced -> Search in the current directory
-- TotalFinder
-    - Show progress bar
-    - Menus -> Show cut-copy-paste, All path copying, hide menubar icon
-    - Uncheck visor
-    - Folder on top
+

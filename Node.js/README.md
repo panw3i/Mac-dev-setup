@@ -5,7 +5,7 @@
     $ brew update
     $ brew install node
 
-一般 Node modules 被安装在每个项目的本地文件夹 `node_modules`，
+一般 Node modules 通常被安装在每个项目的本地文件夹 `node_modules`，
 但至少有几个包推荐你安装在全局：
 
 [CoffeeScript](http://coffeescript.org/) and [Grunt](http://gruntjs.com/):

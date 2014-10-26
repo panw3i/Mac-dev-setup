@@ -1,6 +1,6 @@
 # XCode
 
-安装 [Xcode](https://developer.apple.com/xcode/) 从 App store 或 [苹果开发者网站](https://developer.apple.com/)。
+从 App store 或苹果开发者网站安装 [Xcode](https://developer.apple.com/xcode/) 。
 
 运行以下命令安装 Xcode command line tools
 

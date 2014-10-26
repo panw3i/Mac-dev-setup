@@ -1,10 +1,10 @@
 # 系统设置 System Preferences
 
-在任何的操作系统中，首先你需要做的就是更新系统！点击 **Apple Icon  > Software Update.**。如果这是一部新的电脑，你将需要到系统设置（System Preferences）进行一些适当调整。如何调整，取决于你个人喜欢。
+在任何的操作系统中，首先你需要做一件事就是**更新系统**！点击 **Apple Icon  > Software Update.**。如果这是一部新的电脑，你将需要到系统设置（System Preferences）进行一些适当调整。如何调整，取决于个人喜好。
 
 ### 触控板 Trackpad
 
-- System Preferences > Trackpad
+- 系统设置 > 触控板 (System Preferences > Trackpad)
     - Point & Click
         - Tap to click 「将触碰作为点击」
         - Secondary click 「双指触碰或点击呼叫菜单」
@@ -15,12 +15,12 @@
 
 ### 用户 Accounts
 
-- 添加 iCloud 用户，同步日历，联系人和 Find my mac 等等        -
+- 添加 iCloud 用户，同步日历，联系人和 Find my mac 等等
 
 ### 菜单栏 Menubar
 
-- 删除蓝牙等无需经常使用的图标
-- 将电池显示设置为百分比        -
+- 去掉蓝牙等无需经常使用的图标
+- 将电池显示设置为百分比
 
 ### Dock
 

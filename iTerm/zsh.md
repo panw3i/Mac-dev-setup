@@ -1,6 +1,6 @@
 # Zsh
 
-我们将安装 `zsh` ，其功能和主题将由 `oh-my-zsh` 提供。这安装和使用的过程是非常简易的。`Env.sh` 文件用于维护别名（aliases），输出（exports）和路径改变（path changes）等等，以免影响 `~/.zshrc`。
+我们将安装 `zsh` ，其功能和主题将由 `oh-my-zsh` 提供。这安装和使用的过程是非常简易的。其中`Env.sh` 文件用于维护别名（aliases），输出（exports）和路径改变（path changes）等等，以免影响 `~/.zshrc`。
 
 ### Zsh
 
@@ -12,7 +12,7 @@
 
         curl -L https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh | sh
 
-用文本编辑器打开 `.zshrc` 进行以下编辑
+用文本编辑器或 vi 打开 `.zshrc` 进行以下编辑
 
         ZSH_THEME=pygmalion
         alias zshconfig="vi ~/.zshrc"

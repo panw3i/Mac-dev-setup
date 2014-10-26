@@ -1,8 +1,8 @@
 ## iTerm2
 
-因为我们常常在命令行上花很多时就，所以让我们安装一个比 Mac 默认更棒的 terminal 吧！下载与安装 [iTerm2](http://www.iterm2.com/).
+因为我们常常在命令行上花很多时间，所以让我们安装一个比 Mac 默认更棒的 terminal 吧！下载与安装 [iTerm2](http://www.iterm2.com/).
 
-在 **Finder** 中，将 **iTerm** 拖拽进入 Application 文件夹中。然后，你可以启动 iTerm在 **Launchpad** 中。
+在 **Finder** 中，将 **iTerm** 拖拽进入 Application 文件夹中。然后，你可以在 **Launchpad** 中启动 iTerm。
 
 让我们快速的调整一些设置吧。
 

@@ -1,4 +1,4 @@
-# Using Homebrew
+# Homebrew 基本使用
 
 安装一个包，可以简单的运行：
 

@@ -1,12 +1,13 @@
-Mac OS X Setup Guide
+Mac 开发配置手册
 ====================
 
-This book covers the basics of setting up development environment on a new MacBook for most major languages. All instructions covered have been tried on  Mountain Lion and Mavericks but they might be more inclined towards Mavericks. Whether you are an experienced programmer or not, this book is intended for everyone to use as a reference when installing some language/library.
+本书内容将包含「**如何在一部全新的 MacBook 进行基本的开发环境配置**」，主要面向 Web 开发者。其中的指导，在 Mavericks 和 Yosemite 上有效，更老的系统并未进行尝试。
 
-[![Screen](https://raw.githubusercontent.com/sb2nov/mac-setup/master/assets/intro.jpeg)](https://raw.githubusercontent.com/sb2nov/mac-setup/master/assets/intro.jpeg)
+如果你是一名老手，本书可以让你减少配置环境的烦恼。
+如果你是一名新手，那么恭喜你，你将会打开一个全新的世界。
 
-We will set up [Node](http://nodejs.org/) (JavaScript), [Python](http://www.python.org/), [CPlusPlus](http://www.cplusplus.com/), and [Ruby](http://www.ruby-lang.org/) environments. Even if you don't program in all three, it is good to have them as many command-line tools use one of them. We also install a few daily use application and Latex. As you read and follow these steps, feel free to send me any feedback or comments you may have.
+此书内容主要意译自：[Sourabh Bajaj](https://github.com/sb2nov/mac-setup) 的 Mac OS X Setup Guide，少部分内容由译者添加和修改。
 
-All contributions to the book are welcome. Please help add support for other libraries and languages.
+[阅读手册](http://aaaaaashu.gitbooks.io/mac-dev-setup/)  
+[提出意见]()
 
-**Note:** This book has been generated using [GitBook](http://www.gitbook.io) and is open source, feel free to contribute or signal issues on [GitHub](https://github.com/sb2nov/mac-setup).

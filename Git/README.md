@@ -1,6 +1,6 @@
 # Git and Github
 
-作为一名开发者怎么可能没有 [Git](http://git-scm.com/) ? 我们立马来安装：
+作为一名开发者怎么可能没有 [Git](http://git-scm.com/) ? 我们马上来安装：
 
     $ brew install git
 
@@ -27,10 +27,5 @@ They will get added to your `.gitconfig` file.
 
 SSH 的设置参考此链接 [here](https://help.github.com/articles/generating-ssh-keys).
 
-- - -
-
-### DS_Store
-
-在 Mac 中，请记住将 `.DS_Store` 添加进 `.gitignore`，避免提交 OS X 系统的隐藏文件。
 - - -
 
