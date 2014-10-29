@@ -23,18 +23,18 @@
 
 ### Finder
 
-- Finder > View
-    - Show Tab Bar
-    - Show Path Bar
-    - Show Status Bar
-    - Customize Toolbar > 去除所有按钮，仅剩搜索栏
+- Finder > 显示
+    - 显示标签页栏
+    - 显示路径栏
+    - 显示状态栏
+    - 自定工具栏 > 去除所有按钮，仅剩搜索栏
 
-- Finder > Preferences
-    - General
-        - 打开 finder 窗口进入 HOME「用户名」目录
-    - Sidebar
+- Finder > 偏好设置
+    - 通用
+        - 开启新 Finder 窗口时打开：HOME「用户名」目录
+    - 边栏
         - 添加 HOME「用户名」目录 和 创建代码文件目录
-        - 将 shared 和 tags 目录去掉
+        - 将 共享的(shared) 和 标记(tags) 目录去掉
 
 ### 菜单栏
 

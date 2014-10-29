@@ -10,7 +10,7 @@ Mac 开发配置手册
 
 手册内容主要意译自：[Sourabh Bajaj](https://github.com/sb2nov/mac-setup) 的 Mac OS X Setup Guide，少部分内容由译者添加和修改。
 
-[阅读手册](http://aaaaaashu.gitbooks.io/mac-dev-setup/content/)
-[联系译者](http://aaaaaashu.me/)
+* [阅读手册](http://aaaaaashu.gitbooks.io/mac-dev-setup/content/)
+* [联系译者](http://aaaaaashu.me/)
 
 注：译者更推荐各位阅读 [Sourabh Bajaj](https://github.com/sb2nov/mac-setup) 的英文手册，将系统语言设置为 English，避免相关术语在记忆、理解和查找时产生混淆。
