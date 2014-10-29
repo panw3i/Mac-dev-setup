@@ -13,5 +13,4 @@
 * [MySql](MySql/README.md)
 * [Node.js](Node.js/README.md)
 * [Apps](Apps/README.md)
-* [References](References/README.md)
 

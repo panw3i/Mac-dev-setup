@@ -1,5 +1,5 @@
 # Git Ignore
-创建一个文件 `~/.gitignore` ，并将以下内容添加进去，这样全部 git 仓库将会忽略以下内容所提及的文件。
+创建一个新文件 `~/.gitignore` ，并将以下内容添加进去，这样全部 git 仓库将会忽略以下内容所提及的文件。
 ~~~
 # Folder view configuration files
 .DS_Store

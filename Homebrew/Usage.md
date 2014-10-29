@@ -4,7 +4,7 @@
 
     $ brew install <package_name>
 
-更新 Homebrew 在服务器上的包目录：
+更新 Homebrew 在服务器端上的包目录：
 
     $ brew update
 
@@ -16,7 +16,7 @@
 
     $ brew upgrade <package_name>
 
-Homebrew 将会把老版本的包缓存下来，以防当你想回滚至旧版本时使用。这是比较少使用的情况，所以你可以通过以下命令清理旧版本的包：
+Homebrew 将会把老版本的包缓存下来，以便当你想回滚至旧版本时使用。但这是比较少使用的情况，当你想清理旧版本的包缓存时，可以运行：
 
     $ brew cleanup
 

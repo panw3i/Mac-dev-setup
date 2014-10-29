@@ -1,33 +1,25 @@
-# 系统设置 System Preferences
+# 系统设置
 
-在任何的操作系统中，首先你需要做一件事就是**更新系统**！点击 **Apple Icon  > Software Update.**。如果这是一部新的电脑，你将需要到系统设置（System Preferences）进行一些适当调整。如何调整，取决于个人喜好。
+在任何的操作系统中，首先你需要做一件事就是**更新系统**，点击窗口左上角的**  > 关于本机 > 软件更新** 。此外，如果这是一部新的电脑，你还需要到系统设置进行一些适当调整。如何调整，取决于个人喜好。
 
-### 触控板 Trackpad
+### 触控板
 
-- 系统设置 > 触控板 (System Preferences > Trackpad)
-    - Point & Click
-        - Tap to click 「将触碰作为点击」
-        - Secondary click 「双指触碰或点击呼叫菜单」
-        - Look up 「三指触碰呼叫词典」
-        - Three fingers drag 「三指拖动窗口」
-    - Others
-        - 默认全选
-
-### 用户 Accounts
-
-- 添加 iCloud 用户，同步日历，联系人和 Find my mac 等等
-
-### 菜单栏 Menubar
-
-- 去掉蓝牙等无需经常使用的图标
-- 将电池显示设置为百分比
+- 系统设置 > 触控板
+    - 光标与点击
+        - ✓ 轻拍来点按
+        - ✓ 辅助点按
+        - ✓ 查找
+        - ✓ 三指拖移
+    - 滚动缩放
+        - ✓ 默认全选
+    - 更多手势
+        - ✓ 默认全选
 
 ### Dock
 
-- System Preferences > Dock
-    - 设置 Dock 位置在左边
-    - 设置 Dock 图标更小
-    - 设置 Dock 自动显示和隐藏
+- 置于屏幕上的位置：左边
+- 设置 Dock 图标更小（大小随个人喜好）
+- ✓ 自动显示和隐藏 Dock
 
 ### Finder
 
@@ -44,7 +36,16 @@
         - 添加 HOME「用户名」目录 和 创建代码文件目录
         - 将 shared 和 tags 目录去掉
 
+### 菜单栏
+
+- 去掉蓝牙等无需经常使用的图标
+- 将电池显示设置为百分比
+
 ### Spotlight
 
-- 去掉 Fonts 和 Bookmarks & History 等不需要的内容
+- 去掉字体和书签与历史记录等不需要的内容
 - 设置合适的快捷键
+
+### 互联网帐户
+
+- 添加 iCloud 用户，同步日历，联系人和 Find my mac 等等
