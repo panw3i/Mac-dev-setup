@@ -8,7 +8,7 @@
 
 在 terminal 中复制以下命令（不包括 `$`），跟随指引，将完成 Hombrew 安装。
 
-    $ ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"cl
+    $ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
 紧接着，我们需要做一件事让通过 Hombrew 安装的程序的启动链接 (在 `/usr/local/bin`中）可以直接运行，无需将完整路径写出。通过以下命令将 `/usr/local/bin` 添加至 `$PATH` 环境变量中:
 

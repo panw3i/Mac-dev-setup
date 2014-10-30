@@ -42,5 +42,5 @@
     ...
 ---
 `译注：`
-译者本人并不喜欢 brew cask 的安装方式，更倾向于到 App Store 或官方下载 OS X 图形界面程序。主要因为名字不好记忆，另外当你使用 Alfred 或 Spotlight ，你将发现将程序安装在 ~/Application 会很方便。
+译者本人并不喜欢 brew cask 的安装方式，更倾向于到 App Store 或官方下载 OS X 图形界面程序。主要因为名字不好记忆、偶尔需要手动更新，另外当你使用 Alfred 或 Spotlight ，你将发现将程序安装在 ~/Application 会很方便。
 
