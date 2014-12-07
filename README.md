@@ -18,3 +18,7 @@ Mac 开发配置手册
 
 [![image](http://orangehat.u.qiniudn.com/cover.jpg)](http://aaaaaashu.gitbooks.io/mac-dev-setup/content/)
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/Aaaaaashu/mac-dev-setup/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
