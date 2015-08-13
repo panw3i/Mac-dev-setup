@@ -4,7 +4,7 @@
 
     $ brew install git
 
-好的，现在我们来测试一下 gti 是否安装完好：
+好的，现在我们来测试一下 `git` 是否安装完好：
 
     $ git --version
 
