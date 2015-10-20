@@ -25,7 +25,7 @@
     $ brew cask install qlprettypatch
     $ brew cask install quicklook-csv
     $ brew cask install betterzipql
-    $ brew cask install webp-quicklook
+    $ brew cask install webpquicklook
     $ brew cask install suspicious-package
 
 ### OS X 图形界面程序
