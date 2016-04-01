@@ -37,6 +37,16 @@
 
 - [Mou](http://25.io/mou/)：Markdown 编辑器，国人出品
 
+- [Sip] 取色器
+
+- [MindeNode] 思维导图
+
+- [xScope] 测量工具
+
+- [Lantern] 科学上网
+
+- [OhMyStar] Github star 管理
+
 ### Office Apps
 - [Keynote](http://www.apple.com/mac/keynote/)
 - [Numbers](http://www.apple.com/mac/numbers/)
